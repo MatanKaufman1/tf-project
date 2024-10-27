@@ -1,4 +1,4 @@
-## "Hello World" Simple REST APIs
+## "Hello world" Simple REST APIs
 
 This repo contains a simple REST API written in several programming languages/frameworks, which can also be deployed to docker containers.
 
